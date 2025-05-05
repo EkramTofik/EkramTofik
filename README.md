@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🚀
 
-Hi, I’m [Your Name], a passionate software engineer dedicated to building innovative and accessible web applications. I’m currently focused on mastering **front-end development** using **React**, **Tailwind CSS**, and **JavaScript**, while also expanding my skills in **back-end development** with **Node.js** and **MongoDB**.
+Hi, I’m Ekram Tofik, a passionate software engineer dedicated to building innovative and accessible web applications. I’m currently focused on mastering **front-end development** using **React**, **Tailwind CSS**, and **JavaScript**, while also expanding my skills in **back-end development** with **Node.js** and **MongoDB**.
 
 ## About Me
 I am always striving to improve and grow my skills. Whether it's through personal projects, collaborating with peers, or contributing to open-source communities, I aim to build clean, efficient, and user-friendly code. My focus is on creating digital experiences that solve real-world problems and make technology more accessible to everyone.
