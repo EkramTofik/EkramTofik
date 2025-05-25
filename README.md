@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ekram+Tofik!;Frontend+Developer+%7C+React+%7C+Tailwind+%7C+JS;Let's+Build+Amazing+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C%20I'm%20Ekram%20Tofik!;Front-end%20Developer%20-%20React%2C%20Tailwind%2C%20JavaScript;Let's%20Build%20Amazing%20Things!" alt="Typing SVG" />
 </p>
+
 
 ---
 
