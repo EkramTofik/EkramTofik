@@ -1,4 +1,7 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile! 🚀</h1>
+<p align="center">
+  <img src="my-profile.jpg" alt="Banner Image" width="780px" height="350px" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ekram+Tofik!;Frontend+Developer+%7C+React+%7C+Tailwind+%7C+JS;Let's+Build+Amazing+Things!" alt="Typing SVG" />
@@ -79,6 +82,8 @@ Some of my work is private or still under development, including:
   <a href="https://t.me/Ek154"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://instagram.com/ekramtofik8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/ekramtofik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ekram-tofik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </p>
 
 ---
